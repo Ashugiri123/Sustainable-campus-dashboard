@@ -8,7 +8,7 @@ Educational campuses often waste energy and water due to lack of real-time monit
 An AI-powered sustainability monitoring dashboard that detects abnormal usage patterns, predicts future demand, and provides actionable recommendations to reduce resource wastage.
 
 ## Live Demo
-[View Live Website](https://ashugiri123.github.io/amd-sustainable-campus-dashboard/)
+[View Live Website](https://sustainable-campus-dashboard.netlify.app/)
 
 ## 🎥 Demo Video
 [Watch the project demo here:](https://www.youtube.com/watch?v=-t6Ds1z5EFA)
